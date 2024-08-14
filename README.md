@@ -20,6 +20,3 @@ Amacımız **dünyayı bir satır kodla daha iyi bir yer haline getirmek**. Bu p
 ## 🚀 Kurulum
 Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/repo.git
