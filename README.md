@@ -1,10 +1,10 @@
-# 🚀 SüperProjem
+# 🚀 Poyrax Project
 
 ![GitHub yıldız](https://img.shields.io/github/stars/kullaniciadi/repo?style=social)
 ![GitHub çatallanma](https://img.shields.io/github/forks/kullaniciadi/repo?style=social)
 ![GitHub lisans](https://img.shields.io/github/license/kullaniciadi/repo)
 
-**SüperProjem**'e hoş geldiniz! 🌟 Yenilikle basitliğin buluştuğu bu projede, öğrenmek, katkıda bulunmak veya sadece keşfetmek için buradaysanız, umarız ki heyecan verici bir şeyler bulursunuz.
+**Poyrax Project**'e hoş geldiniz! 🌟 Yenilikle basitliğin buluştuğu bu projede, öğrenmek, katkıda bulunmak veya sadece keşfetmek için buradaysanız, umarız ki heyecan verici bir şeyler bulursunuz.
 
 ## 🎯 Proje Hedefleri
 Amacımız **dünyayı bir satır kodla daha iyi bir yer haline getirmek**. Bu proje şu hedeflere odaklanır:
