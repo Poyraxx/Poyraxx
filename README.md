@@ -1,22 +1,39 @@
-# 🚀 Poyrax Project
+# 👋 Hey! Ben Poyrax
 
-![GitHub yıldız](https://img.shields.io/github/stars/kullaniciadi/repo?style=social)
-![GitHub çatallanma](https://img.shields.io/github/forks/kullaniciadi/repo?style=social)
-![GitHub lisans](https://img.shields.io/github/license/kullaniciadi/repo)
+Öylesine Vibe Coding atan sıradan biriyim
 
-**Poyrax Project**'e hoş geldiniz! 🌟 Yenilikle basitliğin buluştuğu bu projede, öğrenmek, katkıda bulunmak veya sadece keşfetmek için buradaysanız, umarız ki heyecan verici bir şeyler bulursunuz.
+---
 
-## 🎯 Proje Hedefleri
-Amacımız **dünyayı bir satır kodla daha iyi bir yer haline getirmek**. Bu proje şu hedeflere odaklanır:
-- 🚀 Karmaşık görevleri basitleştirmek
-- ⚡ Üretkenliği artırmak
-- 🌍 Topluluğu güçlendirmek
+## 💡 Ne Yapıyorum?
 
-## 🔧 Özellikler
-- **Kolay Kullanım:** Basit ve anlaşılır bir arayüzle, herkesin kullanabileceği şekilde tasarlandı.
-- **Yüksek Performans:** Hızlı ve verimli çalışarak zaman kazandırır.
-- **Esnek Yapı:** İhtiyaçlarınıza göre özelleştirilebilir.
+- Garry’s Mod için özgün **Lua scriptleri** ve sistemler tasarlıyorum  
+- **Python** ile küçük ama faydalı araçlar, otomasyonlar yazıyorum  
+- Html ile basit web arayüzleri üretiyorum
+---
 
-## 🚀 Kurulum
-Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
+## ⚙️ İlgi Alanlarım
+
+- Ui Tasarımı 
+- Python Sistemleri 
+- Hackhathonlar, Yazılım Etkinlikleri
+
+---
+
+## 🧰 Kullandığım Yazılım Dilleri
+
+- **Lua** → GMod scriptleri, plugin’ler, sistemler  
+- **Python** → CLI araçları, küçük deneyler  
+- **HTML / CSS / JS** → Basit web arayüzleri  
+
+---
+
+## 🤝 İletişim
+
+Bana buradan ulaşabilirsin:  
+📫 [github.com/Poyraxx](https://github.com/Poyraxx)
+poyraxkisisel@gmail.com
+
+---
+
+> “Kod yazmak sadece bir şeyleri çalıştırmak değil, bir fikri hayata geçirmektir.”
 
