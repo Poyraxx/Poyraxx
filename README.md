@@ -1,6 +1,3 @@
-# 💫 About Me:
-md<br>👋 Hey! Ben Poyrax<br>Öylesine Vibe Coding atan sıradan biriyim<br><br>💡 Ne Yapıyorum?<br>Garry’s Mod için özgün Lua scriptleri ve sistemler tasarlıyorum<br>Python ile küçük ama faydalı araçlar, otomasyonlar yazıyorum<br>Html ile basit web arayüzleri üretiyorum<br>⚙️ İlgi Alanlarım<br>Ui Tasarımı<br>Python Sistemleri<br>Hackhathonlar, Yazılım Etkinlikleri<br>🧰 Kullandığım Yazılım Dilleri<br>Lua → GMod scriptleri, plugin’ler, sistemler<br>Python → CLI araçları, küçük deneyler<br>HTML / CSS / JS → Basit web arayüzleri<br>🤝 İletişim<br>Bana buradan ulaşabilirsin:<br>📫 github.com/Poyraxx poyraxkisisel@gmail.com<br><br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/htnZTB8Vsp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poyrax.14) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ruskalov14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCOqIxJ_dwtk6Q5M74WwfkTg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poyraxkisisel@gmail.com) 
